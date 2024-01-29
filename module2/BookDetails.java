@@ -52,7 +52,7 @@ class BookDetails
 
 	public static void main(String args[])
 	{
-		BookDetails b1 = new BookDetails("Machine Learning", "IBN20000", 500.00);
+		BookDetails b1 = new BookDetails("Biology Learning", "IBN2000", 600.00);
 		b1.show();
 		
 		BookDetails b2 = new BookDetails("Python Programmimg", "ISBN2018", 475.00);
